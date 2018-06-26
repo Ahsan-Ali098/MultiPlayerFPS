@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiPlayerFPS", "Assembly-CSharp-firstpass.csproj", "{6F23F724-FD29-1173-B5D1-D1FECF39256C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiPlayerFPS", "Assembly-CSharp.csproj", "{C0576B7F-5AB0-A7CD-99DC-AFF5E00BAE0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiPlayerFPS", "Assembly-CSharp-Editor-firstpass.csproj", "{4AF7D050-F730-12BA-6F38-D561FEFB261B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F23F724-FD29-1173-B5D1-D1FECF39256C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F23F724-FD29-1173-B5D1-D1FECF39256C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F23F724-FD29-1173-B5D1-D1FECF39256C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F23F724-FD29-1173-B5D1-D1FECF39256C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0576B7F-5AB0-A7CD-99DC-AFF5E00BAE0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0576B7F-5AB0-A7CD-99DC-AFF5E00BAE0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0576B7F-5AB0-A7CD-99DC-AFF5E00BAE0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0576B7F-5AB0-A7CD-99DC-AFF5E00BAE0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AF7D050-F730-12BA-6F38-D561FEFB261B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AF7D050-F730-12BA-6F38-D561FEFB261B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AF7D050-F730-12BA-6F38-D561FEFB261B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AF7D050-F730-12BA-6F38-D561FEFB261B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
